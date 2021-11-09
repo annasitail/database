@@ -1,5 +1,3 @@
-import mvc_exceptions as mvc_exc
-
 class Student:
     def __init__(self, connection):
         self.connection = connection

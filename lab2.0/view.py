@@ -1,7 +1,4 @@
-# model_view_controller.py
 class View:
-    # def __init__(self, message):
-    #     self.message = message
 
     def ask_for_values_to_add(self, entity):
         value = input(f"Enter new {entity}'s values: ")
